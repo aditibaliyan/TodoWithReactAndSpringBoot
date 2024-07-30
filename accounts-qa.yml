@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to accounts related QA APIs"
   contactDetails:
-    name: "Aditi QA user from git"
+    name: "Aditi QA user from git encrpted"
     email: "{cipher}fe98ac1f08c0a62396b7448aca817cd537852b0b8a7f6c7fb8d7129eb41dd361623fc3356853bc20b2fc17860f7c19c2"
   onCallSupport:
     - 0000000002
