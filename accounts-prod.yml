@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to accounts related prod APIs"
+  contactDetails:
+    name: "Aditi prod user"
+    email: "aditibaliyan@gmail.com"
+  onCallSupport:
+    - 0000000000
+    - 1111111111
